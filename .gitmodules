@@ -7,3 +7,6 @@
 [submodule "NewsHeadlineSentimentAnalysis"]
 	path = NewsHeadlineSentimentAnalysis
 	url = https://github.com/NavinSanjay/NewsHeadlineSentimentAnalysis.git
+[submodule "MusicAttributeAnalysis"]
+	path = MusicAttributeAnalysis
+	url = https://github.com/NavinSanjay/MusicAttributeAnalysis.git
