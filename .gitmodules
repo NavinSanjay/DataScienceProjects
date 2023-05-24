@@ -1,0 +1,6 @@
+[submodule "Projects/TrafficVolumePrediction"]
+	path = Projects/TrafficVolumePrediction
+	url = https://github.com/NavinSanjay/TrafficVolumePrediction.git
+[submodule "TrafficVolumePrediction"]
+	path = TrafficVolumePrediction
+	url = https://github.com/NavinSanjay/TrafficVolumePrediction.git
