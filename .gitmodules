@@ -4,3 +4,6 @@
 [submodule "UFCFightOutcomePrediction"]
 	path = UFCFightOutcomePrediction
 	url = https://github.com/NavinSanjay/UFCFightOutcomePrediction.git
+[submodule "NewsHeadlineSentimentAnalysis"]
+	path = NewsHeadlineSentimentAnalysis
+	url = https://github.com/NavinSanjay/NewsHeadlineSentimentAnalysis.git
