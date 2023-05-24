@@ -1,3 +1,6 @@
 [submodule "TrafficVolumePrediction"]
 	path = TrafficVolumePrediction
 	url = https://github.com/NavinSanjay/TrafficVolumePrediction.git
+[submodule "UFCFightOutcomePrediction"]
+	path = UFCFightOutcomePrediction
+	url = https://github.com/NavinSanjay/UFCFightOutcomePrediction.git
