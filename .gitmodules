@@ -10,3 +10,6 @@
 [submodule "MusicAttributeAnalysis"]
 	path = MusicAttributeAnalysis
 	url = https://github.com/NavinSanjay/MusicAttributeAnalysis.git
+[submodule "MovieRecommendationSystem"]
+	path = MovieRecommendationSystem
+	url = https://github.com/NavinSanjay/MovieRecommendationSystem
